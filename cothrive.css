@@ -1,0 +1,16 @@
+.extrapadding {
+  padding: 0 6%;
+}
+.dataTables_paginate {
+  float: right;
+}
+.dataTables_filter {
+  float: right;
+}
+.modal {
+  height: auto !important;
+  top: auto !important;
+  left: auto !important;
+  bottom: auto !important;
+  right: auto !important;
+}
